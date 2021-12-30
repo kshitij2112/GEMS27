@@ -6,5 +6,4 @@ change - done by team WI3
 =======
 change for bug2
 >>>>>>> bug2
-
-gh
+change: for wi6 on local master to test normal

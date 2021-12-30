@@ -1,4 +1,8 @@
 hello!!!hbjh,b
 kp 
+<<<<<<< HEAD
 change - added for login feature
 change - done by team WI3
+=======
+change for bug2
+>>>>>>> bug2
